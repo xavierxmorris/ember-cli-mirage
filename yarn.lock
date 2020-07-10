@@ -5242,7 +5242,7 @@ ember-cli-addon-docs-esdoc@^0.2.1:
   dependencies:
     broccoli-caching-writer "^3.0.3"
     ember-cli-babel "^6.6.0"
-    esdoc "github:pzuraq/esdoc#015a342"
+    esdoc pzuraq/esdoc#015a342
     esdoc-accessor-plugin "^1.0.0"
     esdoc-ecmascript-proposal-plugin "^1.0.0"
     fs-extra "^5.0.0"
@@ -6556,7 +6556,6 @@ esdoc-ecmascript-proposal-plugin@^1.0.0:
 
 "esdoc@github:pzuraq/esdoc#015a342":
   version "1.0.4"
-  uid "015a3426b2e53b2b0270a9c00133780db3f1d144"
   resolved "https://codeload.github.com/pzuraq/esdoc/tar.gz/015a3426b2e53b2b0270a9c00133780db3f1d144"
   dependencies:
     babel-generator "6.26.0"
@@ -9877,6 +9876,11 @@ lodash@^4.0.0, lodash@^4.1.0, lodash@^4.13.1, lodash@^4.14.0, lodash@^4.15.0, lo
   version "4.17.15"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+
+lodash@^4.17.16:
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log-symbols@^2.2.0:
   version "2.2.0"
